@@ -1,0 +1,76 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0;
+    background-image: url(./Mask\ group.svg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#info{
+    width: 592px;
+    margin: 0 auto 72px;
+
+
+}
+
+#info img{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
+    color: #7D7987;
+    margin-bottom: 32px;
+
+
+}
+
+h1 span {
+    font-weight: bold;
+  color: #C64132;"
+}
+
+span, a{
+    color: #C64132;
+    font-weight: bold;
+}
+a {
+    font-weight: bold;
+    color:#C64132;
+
+
+}
+
+p{
+    color: #7D7987;
+    font-size: 14px;
+    line-height: 28px;
+    margin-bottom: 200px;
+
+}
+
+.logo{
+    position: fixed;
+    right: 12px;
+    bottom: 12px;
+
+}
+
+#footer a + a {
+    margin-left: 28px;
+
+}
+.line{
+    width: 592px;
+    height: 0;
+    margin: 0 auto 12px;
+    border-top: 1px dashed #7D7987
+    
+}
